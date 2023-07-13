@@ -1,4 +1,4 @@
-### Olá, meu nome é Miguel e eu sou apaixonado por tecnologia 💻
+### Olá, meu nome é Miguel, e eu sou apaixonado por tecnologia 💻
 
 <!--
 **mguelnavarro/mguelnavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
